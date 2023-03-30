@@ -5,7 +5,7 @@ import Home from "../views/Home"
 import Pokedex from "../views/Pokedex";
 import PokemonDetail from "../views/PokemonDetail";
 import { pokedexLoader } from "./loaders/pokedexLoader";
-
+//hola
 
 export const router = createBrowserRouter([
     {
