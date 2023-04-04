@@ -71,7 +71,7 @@ const Pokedex = () => {
       </div>
       <p className='welcome'>
         <span>
-          Bienvenido <strong>{user}</strong>, aqui podras   encontrar tu pokemon favorito.
+          Welcome <strong>{user}</strong>, you can find your favorite pokemon rigth here.
         </span>
       </p>
     </div>
