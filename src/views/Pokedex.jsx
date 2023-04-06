@@ -38,6 +38,7 @@ const Pokedex = () => {
         <img className='img_pokemon_logo' src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" alt="Pokemon" />
       </div>
     <div className='pokedex_container'>
+    <img className='gengar' src="https://cdn.custom-cursor.com/packs/2265/pack2890.png" alt="" />
       <div className='filters'>
         <Form> 
           <div className='search_items'>
