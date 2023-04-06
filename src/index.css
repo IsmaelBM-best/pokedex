@@ -6,9 +6,6 @@
     padding: 0;
     font-family: laton, sans-serif;
 }
-body {
-    background-image: linear-gradient(rgb(199, 214, 255), rgb(255, 255, 171),  rgb(168, 255, 168));
-}
 .container {
     text-align: center;
 }
